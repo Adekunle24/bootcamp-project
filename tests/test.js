@@ -42,6 +42,4 @@ describe('AritGeo', () => {
             assert.equal(aritGeo([1,2,5]),-1);
         });
     });
-console.log(aritGeo([2,6,18]))
-
 });
